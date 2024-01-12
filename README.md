@@ -24,20 +24,7 @@ Files in the project includes:
 
 To deploy this project run `python3 project.py`
 
-```python
- ____  _   _  _____  ____   ____   ___  _   _   ____    ____  _   _     _     _      _      _____  _   _   ____  _____  _
- / ___|| | | || ____|/ ___| / ___| |_ _|| \ | | / ___|  / ___|| | | |   / \   | |    | |    | ____|| \ | | / ___|| ____|| |
-| |  _ | | | ||  _|  \___ \ \___ \  | | |  \| || |  _  | |    | |_| |  / _ \  | |    | |    |  _|  |  \| || |  _ |  _|  | |
-| |_| || |_| || |___  ___) | ___) | | | | |\  || |_| | | |___ |  _  | / ___ \ | |___ | |___ | |___ | |\  || |_| || |___ |_|
- \____| \___/ |_____||____/ |____/ |___||_| \_| \____|  \____||_| |_|/_/   \_\|_____||_____||_____||_| \_| \____||_____|(_)
-
-
-Guess the correct answer from 1 to 20
-Please select your mode
- 1-for Solo
- 2-for Versus
-Select:
-```
+<img width="892" alt="python-game_project-final" src="https://github.com/chandang206/Guessing-Challenge/assets/110524377/1f598e66-526d-4efc-891d-17eb8b043486">
 
 If select **1**, the game mode will be **player versus computer**:
 ```python
