@@ -158,4 +158,4 @@ round_num = 0
 Basically same with Solo but customised for both actual players to take turn and guess the correct answer.
 ## Authors
 
-- [Chan, Dang Tran Bao](https://github.com/chandang206)
+- [Chan, Dang Tran Bao](https://chandang206.github.io/Portfolio/)
